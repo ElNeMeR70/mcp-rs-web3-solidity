@@ -1,0 +1,11 @@
+{
+  "name": "mcp-rs-web3-solidity",
+  "protocol": "mcp/1.0",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "name": "query_web3_solidity",
+      "description": "Execute web3-solidity MCP tool"
+    }
+  ]
+}
